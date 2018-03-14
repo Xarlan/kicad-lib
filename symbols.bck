@@ -1,0 +1,17 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AMS1117
+D Adjustable/Fixed Low Dropout Linear Regulator
+K LDO
+$ENDCMP
+#
+$CMP MAX3421E
+D USB Peripheral/Host Controller with SPI Interface
+K USB2.0 SPI
+$ENDCMP
+#
+$CMP micro_USB
+K micro USB
+$ENDCMP
+#
+#End Doc Library
