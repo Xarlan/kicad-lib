@@ -1,18 +1,16 @@
 # kicad-lib
 This repository contain additional symbols and footprints for KiCad
 
-symbols:
-  - LDO
-    AMS1117
-    
-  - 
-   MAX3421E (USB 2.0 <-> SPI)
+##symbols:
+* LDO
+    *AMS1117
+* Chip
+    *MAX3421E (USB 2.0 <-> SPI)
+* Connector
+    *USB type A
+    *micro_USB
    
-  - connector
-   USB type A
-   micro_USB
-   
-footprints:
+##footprints:
 HC-49SM
 TQPF32 size 5x5mm e=0.5
 USBA_1J_DS_1095_WR
