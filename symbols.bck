@@ -10,6 +10,11 @@ D USB Peripheral/Host Controller with SPI Interface
 K USB2.0 SPI
 $ENDCMP
 #
+$CMP USB_type_A
+D socket USB type A, horizontal placement
+K USB type A
+$ENDCMP
+#
 $CMP micro_USB
 K micro USB
 $ENDCMP
