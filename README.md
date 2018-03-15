@@ -9,6 +9,8 @@ This repository contain additional symbols and footprints for KiCad
 * Connector
     - USB type A
     - micro_USB
+* Isolator
+	- ADUM4160 (isolator for USB)
    
 ## footprints:
 * HC-49SM
