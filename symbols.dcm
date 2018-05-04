@@ -20,6 +20,16 @@ D socket USB type A, horizontal placement
 K USB type A
 $ENDCMP
 #
+$CMP VS
+D Triacs
+K Triac, 220AC
+$ENDCMP
+#
+$CMP XX_01_02
+D Connector 2 pin
+K PLS, PBS, screw Terminal
+$ENDCMP
+#
 $CMP micro_USB
 K micro USB
 $ENDCMP

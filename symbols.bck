@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADUM4160
+D Full/Low Speed 5 kV USB Digital Isolator
+K USB isolator
+$ENDCMP
+#
 $CMP AMS1117
 D Adjustable/Fixed Low Dropout Linear Regulator
 K LDO
@@ -10,9 +15,23 @@ D USB Peripheral/Host Controller with SPI Interface
 K USB2.0 SPI
 $ENDCMP
 #
+$CMP MOC3041
+D 6-Pin DIP Zero-Cross Optoisolators Triac Driver Output
+$ENDCMP
+#
 $CMP USB_type_A
 D socket USB type A, horizontal placement
 K USB type A
+$ENDCMP
+#
+$CMP VS
+D Triacs
+K Triac, 220AC
+$ENDCMP
+#
+$CMP XX_01_02
+D Connector 2 pin
+K PLS, PBS, screw Terminal
 $ENDCMP
 #
 $CMP micro_USB
