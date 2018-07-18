@@ -10,9 +10,24 @@ D Adjustable/Fixed Low Dropout Linear Regulator
 K LDO
 $ENDCMP
 #
+$CMP ESP32-PICO-D4
+D ESP32-PICO-D4
+K ESP32-PICO-D4
+$ENDCMP
+#
+$CMP H11L2M
+D OPTOISOLATORS LOGIC OUTPUT
+K H11L2
+$ENDCMP
+#
 $CMP MAX3421E
 D USB Peripheral/Host Controller with SPI Interface
 K USB2.0 SPI
+$ENDCMP
+#
+$CMP TSR_1-2450
+D DC/DC Converters Vin [6.5 ... 36]VDC Vout=5VDC
+K DC/DC
 $ENDCMP
 #
 $CMP USB_type_A
