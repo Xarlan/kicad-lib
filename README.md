@@ -27,3 +27,7 @@ This repository contain additional symbols and footprints for KiCad
 * USBA_1J_DS_1095_WR
 * micro_USB_KLS1-233-0-0-1-T
 * KLS2-126-5.00
+* KLS2-300-5.00
+* SOIC-8_4.9x6mm_e1.27
+* MF-SM030
+* DO-214AC(SMA)
