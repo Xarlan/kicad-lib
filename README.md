@@ -10,6 +10,7 @@ This repository contain additional symbols and footprints for KiCad
     - TSR 1-2450
 * Chip
     - MAX3421E (USB 2.0 <-> SPI)
+    - FT2232H (64-pin)
 * Connector
     - USB type A
     - micro_USB
