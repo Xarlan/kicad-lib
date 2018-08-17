@@ -25,6 +25,11 @@ D FT2232H Dual High Speed USB to Multipurpose UART/FIFO IC
 K FTDI FT2232H
 $ENDCMP
 #
+$CMP FerriteB
+D Ferrite bead
+K Ferrite bead FB
+$ENDCMP
+#
 $CMP H11L2M
 D OPTOISOLATORS LOGIC OUTPUT
 K H11L2
@@ -50,7 +55,7 @@ D DC/DC Converters Vin [6.5 ... 36]VDC Vout=5VDC
 K DC/DC
 $ENDCMP
 #
-$CMP TVS
+$CMP TVS_D
 K TVS diode
 $ENDCMP
 #
